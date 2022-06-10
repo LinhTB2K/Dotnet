@@ -1,0 +1,54 @@
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\bin\Debug\Menu_example.exe.config
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\bin\Debug\Menu_example.exe
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\bin\Debug\Menu_example.pdb
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.csprojResolveAssemblyReference.cache
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.DangNhap.resources
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.Form1.resources
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.Properties.Resources.resources
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.GenerateResource.Cache
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.exe
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.pdb
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.SanPham.resources
+E:\TEACHING\.NET\Coding\Menu_example\Menu_example\obj\Debug\Menu_example.ThongKe.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.exe.config
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.pdb
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.AssemblyReference.cache
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.SuggestedBindingRedirects.cache
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.DangNhap.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.Form1.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.Properties.Resources.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.SanPham.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.ThongKe.resources
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.GenerateResource.cache
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.CoreCompileInputs.cache
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Download\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.pdb
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.exe.config
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\bin\Debug\Menu_example.pdb
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.AssemblyReference.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.SuggestedBindingRedirects.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.DangNhap.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.Form1.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.Properties.Resources.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.SanPham.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.ThongKe.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.GenerateResource.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.CoreCompileInputs.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip (Unzipped Files)\Menu_example\Menu_example\obj\Debug\Menu_example.pdb
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\bin\Debug\Menu_example.exe.config
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\bin\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\bin\Debug\Menu_example.pdb
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.AssemblyReference.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.SuggestedBindingRedirects.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.DangNhap.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.Form1.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.Properties.Resources.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.SanPham.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.ThongKe.resources
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.GenerateResource.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.csproj.CoreCompileInputs.cache
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.exe
+D:\NguyenLinh\C#\Menu_example\Menu_example.zip\Menu_example\Menu_example\obj\Debug\Menu_example.pdb

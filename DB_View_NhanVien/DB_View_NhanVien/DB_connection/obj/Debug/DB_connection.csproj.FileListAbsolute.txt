@@ -1,0 +1,55 @@
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.exe.config
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.exe
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.pdb
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.exe
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.pdb
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe.config
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.User_Login.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.exe.config
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.User_Login.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\bin\Debug\DB_connection.exe.config
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\bin\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\bin\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.User_Login.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\GOOGLE_SYNC\2. TECHING - DZUNG\.NET\Coding\DB_View_NhanVien - for student\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.exe.config
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.exe
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\bin\Debug\DB_connection.pdb
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csproj.AssemblyReference.cache
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csproj.SuggestedBindingRedirects.cache
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.User_Login.resources
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.cache
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.csproj.CoreCompileInputs.cache
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.exe
+D:\NguyenLinh\C#\DB_View_NhanVien\DB_View_NhanVien\DB_connection\obj\Debug\DB_connection.pdb

@@ -1,0 +1,81 @@
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.exe.config
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.exe
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\bin\Debug\DB_connection.pdb
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.exe
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.pdb
+E:\TEACHING\.NET\Coding\DB_connection\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe.config
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\bin\Debug\DB_connection.pdb
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.csprojResolveAssemblyReference.cache
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.Cache
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.User_Login.resources
+E:\GOOGLE_SYNC\2. GIẢNG DẠY - DZUNG\.NET\Coding\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe.config
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\DB_connection.exe
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\DB_connection.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.AssemblyReference.cache
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.SuggestedBindingRedirects.cache
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_DBconnection.resources
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.Form_QLNhanSu.resources
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.User_Login.resources
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.Properties.Resources.resources
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.GenerateResource.cache
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.CoreCompileInputs.cache
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.exe
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\BouncyCastle.Crypto.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Abstractions.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.Core.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.MySql.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Google.Protobuf.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Compression.LZ4.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Hash.xxHash.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Options.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\MySql.Data.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Buffers.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.ComponentModel.Annotations.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Memory.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Numerics.Vectors.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.ValueTuple.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Ubiety.Dns.Core.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\ZstdNet.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Abstractions.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Abstractions.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.Core.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.Core.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.MySql.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\FluentMigrator.Runner.MySql.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Google.Protobuf.pdb
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Google.Protobuf.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Compression.LZ4.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\K4os.Hash.xxHash.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Options.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\MySql.Data.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Buffers.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Memory.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Numerics.Vectors.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\System.ValueTuple.xml
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll
+D:\NguyenLinh\C#\Download\DB_User_Login-20220511T024411Z-001\DB_User_Login\DB_connection\obj\Debug\DB_connection.csproj.CopyComplete
